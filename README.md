@@ -10,5 +10,3 @@ EYE-Seg is a high-resolution image dataset proposed for the field of retinal vas
 ## How to get it?
 
 You can click this [link](https://drive.google.com/drive/folders/1N79_VMiCF6DqenDtVXlNeEZV3XbHgWAz?usp=sharing) to get the resource.
-
-Please send an email to `244506019@csu.edu.cn`, and I will send you the decompression code.
